@@ -1,2 +1,2 @@
-# movie_recommender
+# Movie Recommender
 Testing Software Engineering Techniques
