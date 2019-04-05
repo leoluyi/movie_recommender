@@ -1,5 +1,7 @@
 # Movie Recommender
 
+[![Build Status](https://travis-ci.org/krother/movie_recommender.svg?branch=master)](https://travis-ci.org/krother/movie_recommender)
+
 In this project we are testing Software Engineering Techniques.
 
 ## Usage:
