@@ -1,0 +1,185 @@
+Comparing files commit.txt and COMMIT_SECONDARY.TXT
+***** commit.txt
+altair==2.4.1
+arrow==0.13.1
+***** COMMIT_SECONDARY.TXT
+alabaster==0.7.12
+altair==2.4.1
+argh==0.26.2
+arrow==0.13.1
+*****
+
+***** commit.txt
+Automat==0.7.0
+backcall==0.1.0
+***** COMMIT_SECONDARY.TXT
+Automat==0.7.0
+Babel==2.6.0
+backcall==0.1.0
+*****
+
+***** commit.txt
+bs4==0.0.1
+catboost==0.13
+***** COMMIT_SECONDARY.TXT
+bs4==0.0.1
+bumpversion==0.5.3
+catboost==0.13
+*****
+
+***** commit.txt
+cookiecutter==1.6.0
+cryptography==2.6.1
+***** COMMIT_SECONDARY.TXT
+cookiecutter==1.6.0
+coverage==4.5.1
+cryptography==2.6.1
+*****
+
+***** commit.txt
+distributed==1.26.1
+dominate==2.3.5
+***** COMMIT_SECONDARY.TXT
+distributed==1.26.1
+docutils==0.14
+dominate==2.3.5
+*****
+
+***** commit.txt
+explode==1.0.6
+Flask==1.0.2
+***** COMMIT_SECONDARY.TXT
+explode==1.0.6
+filelock==3.0.10
+flake8==3.5.0
+Flask==1.0.2
+*****
+
+***** commit.txt
+imageio==2.5.0
+incremental==17.5.0
+***** COMMIT_SECONDARY.TXT
+imageio==2.5.0
+imagesize==1.1.0
+incremental==17.5.0
+*****
+
+***** commit.txt
+openpyxl==2.6.0
+pandas==0.24.1
+***** COMMIT_SECONDARY.TXT
+openpyxl==2.6.0
+packaging==19.0
+pandas==0.24.1
+*****
+
+***** commit.txt
+partd==0.3.10
+patsy==0.5.1
+***** COMMIT_SECONDARY.TXT
+partd==0.3.10
+pathtools==0.1.2
+patsy==0.5.1
+*****
+
+***** commit.txt
+Pillow==5.4.1
+plotly==3.6.1
+***** COMMIT_SECONDARY.TXT
+Pillow==5.4.1
+pkginfo==1.5.0.1
+plotly==3.6.1
+*****
+
+***** commit.txt
+py4j==0.10.7
+pycparser==2.19
+Pygments==2.3.1
+***** COMMIT_SECONDARY.TXT
+py4j==0.10.7
+pycodestyle==2.3.1
+pycparser==2.19
+pyflakes==1.6.0
+Pygments==2.3.1
+*****
+
+***** commit.txt
+pyspark==2.4.1
+pytest==4.4.0
+python-dateutil==2.7.5
+***** COMMIT_SECONDARY.TXT
+pyspark==2.4.1
+pytest==3.8.2
+pytest-runner==4.2
+python-dateutil==2.7.5
+*****
+
+***** commit.txt
+queuelib==1.5.0
+requests==2.21.0
+retrying==1.3.3
+***** COMMIT_SECONDARY.TXT
+queuelib==1.5.0
+readme-renderer==24.0
+requests==2.21.0
+requests-toolbelt==0.9.1
+retrying==1.3.3
+*****
+
+***** commit.txt
+sklearn==0.0
+sortedcontainers==2.1.0
+***** COMMIT_SECONDARY.TXT
+sklearn==0.0
+snowballstemmer==1.2.1
+sortedcontainers==2.1.0
+*****
+
+***** commit.txt
+spark==0.2.1
+sphinx-rtd-theme==0.2.4
+SQLAlchemy==1.3.1
+***** COMMIT_SECONDARY.TXT
+spark==0.2.1
+Sphinx==1.8.1
+sphinx-rtd-theme==0.2.4
+sphinxcontrib-websupport==1.1.0
+SQLAlchemy==1.3.1
+*****
+
+***** commit.txt
+testpath==0.4.2
+toolz==0.9.0
+***** COMMIT_SECONDARY.TXT
+testpath==0.4.2
+toml==0.10.0
+toolz==0.9.0
+*****
+
+***** commit.txt
+tornado==5.1.1
+tqdm==4.31.1
+***** COMMIT_SECONDARY.TXT
+tornado==5.1.1
+tox==3.5.2
+tqdm==4.31.1
+*****
+
+***** commit.txt
+traitlets==4.3.2
+typed-ast==1.3.1
+***** COMMIT_SECONDARY.TXT
+traitlets==4.3.2
+twine==1.12.1
+typed-ast==1.3.1
+*****
+
+***** commit.txt
+w3lib==1.20.0
+wcwidth==0.1.7
+***** COMMIT_SECONDARY.TXT
+w3lib==1.20.0
+watchdog==0.9.0
+wcwidth==0.1.7
+*****
+

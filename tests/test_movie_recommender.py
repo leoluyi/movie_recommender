@@ -1,5 +1,5 @@
 
-from recommender import recommend, MOVIES
+from movie_recommender.movie_recommender import recommend, MOVIES
 
 def test_valid_movie():
     """The recommended movie is in the list of movies."""
