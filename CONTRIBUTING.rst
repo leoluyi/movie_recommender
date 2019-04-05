@@ -29,31 +29,6 @@ Fix Bugs
 Look through the GitHub issues for bugs. Anything tagged with "bug" and "help
 wanted" is open to whoever wants to implement it.
 
-Implement Features
-~~~~~~~~~~~~~~~~~~
-
-Look through the GitHub issues for features. Anything tagged with "enhancement"
-and "help wanted" is open to whoever wants to implement it.
-
-Write Documentation
-~~~~~~~~~~~~~~~~~~~
-
-Movie Recommender could always use more documentation, whether as part of the
-official Movie Recommender docs, in docstrings, or even on the web in blog posts,
-articles, and such.
-
-Submit Feedback
-~~~~~~~~~~~~~~~
-
-The best way to send feedback is to file an issue at https://github.com/krother/movie_recommender/issues.
-
-If you are proposing a feature:
-
-* Explain in detail how it would work.
-* Keep the scope as narrow as possible, to make it easier to implement.
-* Remember that this is a volunteer-driven project, and that contributions
-  are welcome :)
-
 Get Started!
 ------------
 
@@ -103,7 +78,11 @@ Before you submit a pull request, check that it meets these guidelines:
    your new functionality into a function with a docstring, and add the
    feature to the list in README.rst.
 3. The pull request should work for Python 2.7, 3.4, 3.5 and 3.6, and for PyPy. Check
+<<<<<<< HEAD
    https://travis-ci.org/krother/movie_recommender/pull_requests
+=======
+   https://travis-ci.org/audreyr/movie_recommender/pull_requests
+>>>>>>> 66bc60a277b6a9709bc9ffc8425247a716818305
    and make sure that the tests pass for all supported Python versions.
 
 Tips

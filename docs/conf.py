@@ -47,9 +47,15 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
+<<<<<<< HEAD
 project = u'Movie Recommender'
 copyright = u"2019, SPICED"
 author = u"SPICED"
+=======
+project = u'movie_recommender'
+copyright = u"2019, kopal"
+author = u"kopal"
+>>>>>>> 66bc60a277b6a9709bc9ffc8425247a716818305
 
 # The version info for the project you're documenting, acts as replacement
 # for |version| and |release|, also used in various other places throughout
@@ -129,8 +135,13 @@ latex_elements = {
 # [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'movie_recommender.tex',
+<<<<<<< HEAD
      u'Movie Recommender Documentation',
      u'SPICED', 'manual'),
+=======
+     u'movie_recommender Documentation',
+     u'kopal', 'manual'),
+>>>>>>> 66bc60a277b6a9709bc9ffc8425247a716818305
 ]
 
 
@@ -140,7 +151,11 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     (master_doc, 'movie_recommender',
+<<<<<<< HEAD
      u'Movie Recommender Documentation',
+=======
+     u'movie_recommender Documentation',
+>>>>>>> 66bc60a277b6a9709bc9ffc8425247a716818305
      [author], 1)
 ]
 
@@ -152,7 +167,11 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
     (master_doc, 'movie_recommender',
+<<<<<<< HEAD
      u'Movie Recommender Documentation',
+=======
+     u'movie_recommender Documentation',
+>>>>>>> 66bc60a277b6a9709bc9ffc8425247a716818305
      author,
      'movie_recommender',
      'One line description of project.',
