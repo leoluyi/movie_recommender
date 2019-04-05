@@ -10,8 +10,12 @@ MOVIES = [
 ]
 
 def recommend():
+    """Recommends one movie"""
     movie = random.sample(MOVIES, 1)
-    return movie
+    return movie[0]
+    #movie = str(random.sample(MOVIES, 1))
+    #return movie[2:-2]
+    #return random.choice(MOVIES)
 
 
 print(recommend())
