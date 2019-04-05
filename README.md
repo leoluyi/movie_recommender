@@ -6,7 +6,7 @@ In this project we are testing Software Engineering Techniques.
 
     python recommender.py
 
-
+This repository is connected to Travis.
 
 Authored by: Kristian & Artificial Neural Nutmeg
 
